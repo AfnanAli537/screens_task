@@ -46,10 +46,10 @@ This Flutter project includes three key screens for a mobile authentication flow
 ---
 
 ## 🖼️ Splash Screen
-![Splash Screen](splash#.png)
+![Splash Screen](splash%23.png)
 
 ## 🔐 Login Screen
-![Login Screen](Login#.png)
+![Login Screen](Login%23.png)
 
 ## 🔢 OTP Screen
 ![OTP Screen](Otp.png)
