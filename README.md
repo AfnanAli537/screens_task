@@ -45,6 +45,17 @@ This Flutter project includes three key screens for a mobile authentication flow
 
 ---
 
+## 🖼️ Splash Screen
+![Splash Screen](splash#.png)
+
+## 🔐 Login Screen
+![Login Screen](Login#.png)
+
+## 🔢 OTP Screen
+![OTP Screen](Otp.png)
+
+
+
 ## 🖼️ Assets Setup
 
 Make sure to declare your splash image in `pubspec.yaml`:
